@@ -13,7 +13,7 @@ Script ini diciptakan oleh **WahidXD Official** dengan tujuan memudahkan para pr
 - Atau ubah command run menjadi: `bash run.sh`
 
 ### **Jika di *terminal* seperti *Termux*:**
-- Jalankan perintah: `git clone https://github.com/ini-alex/JS-tools-V1-latest`
+- Jalankan perintah: `git clone https://github.com/WAHIDOFC2/JS-tools-V1-latest`
 - Masuk ke folder: `cd JS-tools-V1-latest`
 - Jalankan: `bash run.sh`
 
