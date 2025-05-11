@@ -40,7 +40,7 @@ chalk.green.bold(`
 chalk.yellow.bold(`
 
 Hai calon developer! Welcome to JS Tools V1.
-This toolkit created by WahidXD Official(Alex),  
+This toolkit created by WahidXD Official(WAHIDXD),  
 buat bantuin lu ngoding lebih cepat, rapi, dan gak ribet.
 
 > Versi pertama ini masih sederhana, tapi jangan salah —
